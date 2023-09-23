@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T17:01:17 IST" name="Suite" finished-at="2023-08-05T17:01:27 IST" duration-ms="10239">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T17:01:17 IST" name="Test" finished-at="2023-08-05T17:01:27 IST" duration-ms="10239">
+      <class name="diiverCode.driverCode">
+        <test-method is-config="true" signature="beforetext()[pri:0, instance:diiverCode.driverCode@f78a47e]" started-at="2023-08-05T17:01:17 IST" name="beforetext" finished-at="2023-08-05T17:01:27 IST" duration-ms="10008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetext -->
+        <test-method signature="startcode()[pri:0, instance:diiverCode.driverCode@f78a47e]" started-at="2023-08-05T17:01:27 IST" name="startcode" finished-at="2023-08-05T17:01:27 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startcode -->
+        <test-method is-config="true" signature="Aftertext()[pri:0, instance:diiverCode.driverCode@f78a47e]" started-at="2023-08-05T17:01:27 IST" name="Aftertext" finished-at="2023-08-05T17:01:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertext -->
+      </class> <!-- diiverCode.driverCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
